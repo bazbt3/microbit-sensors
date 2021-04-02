@@ -8,7 +8,6 @@ function temp () {
     basic.showNumber(input.temperature())
 }
 input.onButtonPressed(Button.AB, function () {
-    basic.clearScreen()
     if (y == 0) {
         temp()
     } else if (y == 1) {
@@ -18,6 +17,7 @@ input.onButtonPressed(Button.AB, function () {
     } else if (y == 3) {
         mic()
     }
+    basic.clearScreen()
 })
 function mic () {
     basic.showNumber(input.soundLevel())
