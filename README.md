@@ -12,7 +12,7 @@ I used the Microsoft MakeCode IDE (blocks of code similar to Scratch) in [the iP
 
 Note: I used only the block editor so be aware that the MicroPython and is not ordered 'neatly'.
 
-## The code
+## Meta
 
 > Open this page at [https://bazbt3.github.io/microbit-sensors/](https://bazbt3.github.io/microbit-sensors/)
 
