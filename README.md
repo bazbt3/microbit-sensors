@@ -10,7 +10,7 @@ An [embedded system](https://en.wikipedia.org/wiki/Embedded_system) computer hal
 
 I used the Microsoft MakeCode IDE (blocks of code similar to Scratch) in [the iPhone micro:bit app.](https://apps.apple.com/gb/app/micro-bit/id1092687276).  However, [other apps and languages](https://microbit.org/code/) can be used.
 
-Note: I used only the block editor so be aware that the MicroPython and is not ordered 'neatly'.
+Note: I have used only the block editor so be aware that the underlying 'written' code may not be ordered 'neatly'. *(I originally thought the MicroPython code from the app would be saved here but only the javascript makes it to the repo; see the Main.ts file.)*
 
 ## Meta
 
